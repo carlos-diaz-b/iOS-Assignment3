@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F60BBCF02450E90C00E489AE /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCEF2450E90C00E489AE /* LibraryViewController.swift */; };
+		F60BBCF22450E92600E489AE /* DinningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCF12450E92600E489AE /* DinningViewController.swift */; };
+		F60BBCF42450E93C00E489AE /* StairsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCF32450E93C00E489AE /* StairsViewController.swift */; };
+		F60BBCF62450E95800E489AE /* SecretPassageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCF52450E95800E489AE /* SecretPassageViewController.swift */; };
+		F60BBCF82450E96500E489AE /* KitchenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCF72450E96500E489AE /* KitchenViewController.swift */; };
+		F60BBCFA2450E97B00E489AE /* BedRoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCF92450E97B00E489AE /* BedRoomViewController.swift */; };
+		F60BBCFC2450E98B00E489AE /* BadRoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCFB2450E98B00E489AE /* BadRoomViewController.swift */; };
+		F60BBCFE2450E9A400E489AE /* DungeonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCFD2450E9A400E489AE /* DungeonViewController.swift */; };
+		F60BBD002450E9C500E489AE /* LabrotoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBCFF2450E9C500E489AE /* LabrotoryViewController.swift */; };
+		F60BBD022450E9DD00E489AE /* LakeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBD012450E9DD00E489AE /* LakeViewController.swift */; };
+		F60BBD042450E9EE00E489AE /* PorchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBD032450E9EE00E489AE /* PorchViewController.swift */; };
+		F60BBD062450EA0D00E489AE /* GeneratorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBD052450EA0D00E489AE /* GeneratorViewController.swift */; };
+		F60BBD082450EA1A00E489AE /* ChaliceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60BBD072450EA1A00E489AE /* ChaliceViewController.swift */; };
 		F618CA7A244FB2150020AEB0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F618CA79244FB2150020AEB0 /* AppDelegate.swift */; };
 		F618CA7C244FB2150020AEB0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F618CA7B244FB2150020AEB0 /* SceneDelegate.swift */; };
 		F618CA7E244FB2150020AEB0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F618CA7D244FB2150020AEB0 /* ViewController.swift */; };
@@ -17,6 +30,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F60BBCEF2450E90C00E489AE /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
+		F60BBCF12450E92600E489AE /* DinningViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DinningViewController.swift; sourceTree = "<group>"; };
+		F60BBCF32450E93C00E489AE /* StairsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StairsViewController.swift; sourceTree = "<group>"; };
+		F60BBCF52450E95800E489AE /* SecretPassageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretPassageViewController.swift; sourceTree = "<group>"; };
+		F60BBCF72450E96500E489AE /* KitchenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KitchenViewController.swift; sourceTree = "<group>"; };
+		F60BBCF92450E97B00E489AE /* BedRoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BedRoomViewController.swift; sourceTree = "<group>"; };
+		F60BBCFB2450E98B00E489AE /* BadRoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadRoomViewController.swift; sourceTree = "<group>"; };
+		F60BBCFD2450E9A400E489AE /* DungeonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DungeonViewController.swift; sourceTree = "<group>"; };
+		F60BBCFF2450E9C500E489AE /* LabrotoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabrotoryViewController.swift; sourceTree = "<group>"; };
+		F60BBD012450E9DD00E489AE /* LakeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LakeViewController.swift; sourceTree = "<group>"; };
+		F60BBD032450E9EE00E489AE /* PorchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PorchViewController.swift; sourceTree = "<group>"; };
+		F60BBD052450EA0D00E489AE /* GeneratorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneratorViewController.swift; sourceTree = "<group>"; };
+		F60BBD072450EA1A00E489AE /* ChaliceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChaliceViewController.swift; sourceTree = "<group>"; };
 		F618CA76244FB2150020AEB0 /* NavigationControll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationControll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F618CA79244FB2150020AEB0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F618CA7B244FB2150020AEB0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +92,19 @@
 				F618CA8D244FB2DE0020AEB0 /* drive-download-20200421T225959Z-001 */,
 				F618CA84244FB2170020AEB0 /* LaunchScreen.storyboard */,
 				F618CA87244FB2170020AEB0 /* Info.plist */,
+				F60BBCEF2450E90C00E489AE /* LibraryViewController.swift */,
+				F60BBCF12450E92600E489AE /* DinningViewController.swift */,
+				F60BBCF32450E93C00E489AE /* StairsViewController.swift */,
+				F60BBCF52450E95800E489AE /* SecretPassageViewController.swift */,
+				F60BBCF72450E96500E489AE /* KitchenViewController.swift */,
+				F60BBCF92450E97B00E489AE /* BedRoomViewController.swift */,
+				F60BBCFB2450E98B00E489AE /* BadRoomViewController.swift */,
+				F60BBCFD2450E9A400E489AE /* DungeonViewController.swift */,
+				F60BBCFF2450E9C500E489AE /* LabrotoryViewController.swift */,
+				F60BBD012450E9DD00E489AE /* LakeViewController.swift */,
+				F60BBD032450E9EE00E489AE /* PorchViewController.swift */,
+				F60BBD052450EA0D00E489AE /* GeneratorViewController.swift */,
+				F60BBD072450EA1A00E489AE /* ChaliceViewController.swift */,
 			);
 			path = NavigationControll;
 			sourceTree = "<group>";
@@ -142,9 +181,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F60BBCFA2450E97B00E489AE /* BedRoomViewController.swift in Sources */,
+				F60BBD062450EA0D00E489AE /* GeneratorViewController.swift in Sources */,
 				F618CA7E244FB2150020AEB0 /* ViewController.swift in Sources */,
 				F618CA7A244FB2150020AEB0 /* AppDelegate.swift in Sources */,
+				F60BBCFC2450E98B00E489AE /* BadRoomViewController.swift in Sources */,
+				F60BBCF02450E90C00E489AE /* LibraryViewController.swift in Sources */,
+				F60BBD002450E9C500E489AE /* LabrotoryViewController.swift in Sources */,
+				F60BBCF82450E96500E489AE /* KitchenViewController.swift in Sources */,
+				F60BBD042450E9EE00E489AE /* PorchViewController.swift in Sources */,
 				F618CA7C244FB2150020AEB0 /* SceneDelegate.swift in Sources */,
+				F60BBD022450E9DD00E489AE /* LakeViewController.swift in Sources */,
+				F60BBCFE2450E9A400E489AE /* DungeonViewController.swift in Sources */,
+				F60BBCF62450E95800E489AE /* SecretPassageViewController.swift in Sources */,
+				F60BBCF42450E93C00E489AE /* StairsViewController.swift in Sources */,
+				F60BBD082450EA1A00E489AE /* ChaliceViewController.swift in Sources */,
+				F60BBCF22450E92600E489AE /* DinningViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
